@@ -5,3 +5,5 @@
 [Folium](https://medium.com/datasciencearth/map-visualization-with-folium-d1403771717)
 
 [Folium and Geopandas: FeatureGroup for categorial data](https://www.riannek.de/2022/folium-featuregroup-categorial-data/)
+
+Foi construído um ótimo exemplo de controle de camadas.
